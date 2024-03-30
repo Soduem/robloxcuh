@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from pystyle import Colorate, Colors, Add, Center, Write
 validReports = 0
 
-c = open("cookies.txt", "r").readlines()
+c = open("cook.txt", "r").readlines()
 cookies = [i.replace('\n', '') for i in c]
 
 #For Getting Stuff
