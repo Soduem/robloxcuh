@@ -1,5 +1,5 @@
 #Main File
-import RBXBan as RB
+import rbx as RB
 from pystyle import Write, Colors
 
 print(RB.getBanner())
